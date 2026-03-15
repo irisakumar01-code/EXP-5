@@ -57,6 +57,16 @@ LOAD REGULATION CHARACTERISTICS:
 
 .
 
+.
+
+.
+
+.
+
+.
+
+.
+
 PRECAUTIONS:
 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
